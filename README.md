@@ -12,7 +12,10 @@ _Congratulations friend, you've completed this course!_
 
 <img src=https://octodex.github.com/images/jetpacktocat.png alt="Mona the Octocat wearing a jetpack and smiling." width=300 align=right>
 
+
+**Seeing your _action_ in action**: The status of each workflow run that's triggered is shown in the pull request before it's merged: look for **All checks have passed** when you try out the steps below. You can also see a list of all the workflows that are running, or have finished running, in the **Actions** tab of your repository. From there, you can click on each workflow run to view more details and access log files. :seedling:
 Here's a recap of all the tasks you've accomplished in your repository:
+
 
 - You've created your first GitHub Actions workflow file.
 - You learned where to make your workflow file.
